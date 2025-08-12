@@ -1,0 +1,38 @@
+[
+  {
+    "stationUuid": "967a6d86-0601-11e8-a442-52543be04c81",
+    "name": "2M Maroc",
+    "url": "https://2m-radio.ice.infomaniak.ch/2m-radio.aac",
+    "favicon": "https://i.imgur.com/2M.png",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "AAC",
+    "tags": "pop,news",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "967ac2e8-0601-11e8-a442-52543be04c81",
+    "name": "Aswat",
+    "url": "https://aswat.ice.infomaniak.ch/aswat-128.mp3",
+    "favicon": "https://i.imgur.com/aswat.png",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "bbc-radio-1",
+    "name": "BBC Radio 1",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+    "favicon": "https://i.imgur.com/bbc1.png",
+    "country": "UK",
+    "bitrate": 192,
+    "codec": "AAC",
+    "tags": "pop,international",
+    "isFavorite": false,
+    "addedAt": null
+  }
+]
