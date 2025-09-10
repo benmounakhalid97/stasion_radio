@@ -79,11 +79,12 @@
   },
   {
     "stationUuid": "70",
-    "name": "Only rai",
-    "url": "http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
+    "name": "Chada Fm",
+    "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
   }
 ]
+
 
 
 
