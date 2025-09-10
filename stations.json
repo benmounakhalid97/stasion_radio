@@ -79,10 +79,11 @@
   },
   {
     "stationUuid": "70",
-    "name": "Aswat FM",
-    "url": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+    "name": "Only rai",
+    "url": "http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
   }
 ]
+
 
 
