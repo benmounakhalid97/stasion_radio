@@ -35,7 +35,7 @@
     "stationUuid": "5",
     "name": "Nogoum fm",
     "url": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3?refresh=1675929443955",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -67,7 +67,7 @@
     "stationUuid": "9",
     "name": "القارئ محمد أيوب",
     "url": "https://qurango.net/radio/mohammed_ayyub",
-    "favicon": "https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg"
+    "favicon": "https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg",
     "isFavorite": false,
     "addedAt": null
   },
@@ -112,9 +112,3 @@
     "addedAt": null
   }
 ]
-
-
-
-
-
-
