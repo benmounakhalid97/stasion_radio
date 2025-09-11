@@ -3,7 +3,7 @@
     "stationUuid": "1",
     "name": "Radio Mars",
     "url": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -11,7 +11,7 @@
     "stationUuid": "2",
     "name": "MRC:-Radio 5aFaYa Radio Music",
     "url": "https://stream.zeno.fm/5cn1szmb31zuv",
-    "favicon": "http://www.radioaswat.ma/favicon.ico"
+    "favicon": "http://www.radioaswat.ma/favicon.ico",
     "isFavorite": false,
     "addedAt": null
   },
@@ -19,7 +19,7 @@
     "stationUuid": "3",
     "name": "MRC:-Radio plus",
     "url": "https://stream.radio.co/s8cc7a5da4/listen",
-    "favicon": "https://bridge.medi1.com/images/Mobile/Nayda.png?V=1"
+    "favicon": "https://bridge.medi1.com/images/Mobile/Nayda.png?V=1",
     "isFavorite": false,
     "addedAt": null
   },
@@ -27,7 +27,7 @@
     "stationUuid": "4",
     "name": "Skyrock Casablanca",
     "url": "https://icecast.skyrock.net/s/casa_aac_64k",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDeG4UfceNKx39_KEr8RQhM3QX5kSdpK6zQ&usqp=CAU"
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDeG4UfceNKx39_KEr8RQhM3QX5kSdpK6zQ&usqp=CAU",
     "isFavorite": false,
     "addedAt": null
   },
@@ -43,7 +43,7 @@
     "stationUuid": "6",
     "name": "jil Fm dz",
     "url": "https://webradio.tda.dz/Jeunesse_64K.mp3",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -51,7 +51,7 @@
     "stationUuid": "7",
     "name": "إذاعة محمود خليل الحصري",
     "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -59,7 +59,7 @@
     "stationUuid": "8",
     "name": "إذاعة مشاري العفاسي",
     "url": "https://qurango.net/radio/mishary_alafasi",
-    "favicon": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
+    "favicon": "http://www.phantomsw.com/assets/img/apple-touch-icon.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -75,7 +75,7 @@
     "stationUuid": "10",
     "name": "MA:-Hicham-Mallouli",
     "url": "https://stream.zeno.fm/gec4u31qcuhvv",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -83,7 +83,7 @@
     "stationUuid": "11",
     "name": "MRC:-Radio Adwaa Music 3",
     "url": "https://stream.zeno.fm/x4451xh0x1zuv",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -91,7 +91,7 @@
     "stationUuid": "12",
     "name": "تفسير بن عثيمين",
     "url": "https://qurango.net/radio/tafseer",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   },
@@ -99,7 +99,7 @@
     "stationUuid": "13",
     "name": "MRC:-Radio plus",
     "url": "https://stream.radio.co/s8cc7a5da4/listen",
-    "favicon": "https://www.aljazeera.net/favicon.ico"
+    "favicon": "https://www.aljazeera.net/favicon.ico",
     "isFavorite": false,
     "addedAt": null
   },
@@ -107,11 +107,12 @@
     "stationUuid": "70",
     "name": "Chada Fm",
     "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png"
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "isFavorite": false,
     "addedAt": null
   }
 ]
+
 
 
 
