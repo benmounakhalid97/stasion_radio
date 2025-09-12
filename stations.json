@@ -219,9 +219,7 @@
    {
     "stationUuid": "19",
     "name": "Radio Amazigh",
-    "url": "
-https://stream-154.zeno.fm/7nqu31p6xg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bnF1MzFwNnhnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9TTmloSklkUlhHdno1Y2xXNzVfYmciLCJpYXQiOjE3NTc3MTU5MTQsImV4cCI6MTc1NzcxNTk3NH0.xL3PzPQ80bcxnQlwvrKmNxqSQDYVzqjZbr2QbPoVaus
-",
+    "url": "https://stream-154.zeno.fm/7nqu31p6xg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bnF1MzFwNnhnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9TTmloSklkUlhHdno1Y2xXNzVfYmciLCJpYXQiOjE3NTc3MTU5MTQsImV4cCI6MTc1NzcxNTk3NH0.xL3PzPQ80bcxnQlwvrKmNxqSQDYVzqjZbr2QbPoVaus",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
    "country": "Morocco",
     "bitrate": 128,
@@ -280,4 +278,5 @@ https://stream-154.zeno.fm/7nqu31p6xg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
   },
 
 ]
+
 
