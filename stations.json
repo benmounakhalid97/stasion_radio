@@ -13,8 +13,8 @@
   },
   {
     "stationUuid": "2",
-    "name": "Radio medi1tv",
-    "url": "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/chunklist_w1890226372.m3u8",
+    "name": "VerFMRadio",
+    "url": "https://versionfm.com:8100/stream",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
    "country": "Morocco",
     "bitrate": 128,
@@ -155,10 +155,11 @@
     "isFavorite": false,
     "addedAt": null
   },
+  
   {
     "stationUuid": "70",
-    "name": "Chada Fm",
-    "url": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+    "name": "Radio Albab",
+    "url": "https://albal-lbnet2.radioca.st/stream.mp3",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "country": "Morocco",
     "bitrate": 128,
@@ -167,4 +168,116 @@
     "isFavorite": false,
     "addedAt": null
   }
+  {
+    "stationUuid": "15",
+    "name": "Mc Doualiya",
+    "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+ {
+    "stationUuid": "16",
+    "name": "Quran AlDosary",
+    "url": "https://radio.mp3islam.com/listen/yaser/radio.mp3",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+   {
+    "stationUuid": "17",
+    "name": "Anghamy",
+    "url": "https://radio.avazfarsi.com:8010/radio.mp3",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+   {
+    "stationUuid": "18",
+    "name": "AlifalifFM",
+    "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+   {
+    "stationUuid": "19",
+    "name": "Radio Amazigh",
+    "url": "
+https://stream-154.zeno.fm/7nqu31p6xg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bnF1MzFwNnhnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9TTmloSklkUlhHdno1Y2xXNzVfYmciLCJpYXQiOjE3NTc3MTU5MTQsImV4cCI6MTc1NzcxNTk3NH0.xL3PzPQ80bcxnQlwvrKmNxqSQDYVzqjZbr2QbPoVaus
+",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+ {
+    "stationUuid": "20",
+    "name": "Hala Radio",
+    "url": "https://stream-156.zeno.fm/1dy2395z3k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxZHkyMzk1ejNrOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InAzUnF3M2JmVHZTOWlEem9kS3VvRXciLCJpYXQiOjE3NTc3MTU1NTUsImV4cCI6MTc1NzcxNTYxNX0.ES7sEOqv2O9K1R3ydZ7RxcIz-59BgUATGKfjhlDkPYo",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+   {
+    "stationUuid": "21",
+    "name": "RadioPlus Agadir",
+    "url": "https://stream-154.zeno.fm/bqdbb6hd0neuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicWRiYjZoZDBuZXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InlQU0otUzlSU1dtTVhzeGpGcTlzbXciLCJpYXQiOjE3NTc3MTUzMjksImV4cCI6MTc1NzcxNTM4OX0.18INBUh3vBzmzywjPDjjLbipLpUnR1ZOCsUDZuNyIec",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+   {
+    "stationUuid": "22",
+    "name": "Emaar FM Radio",
+    "url": "https://stream-179.zeno.fm/4luag56o066uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bHVhZzU2bzA2NnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imp3Q3k1dndoVHlpYjBTbW5LUmhxVUEiLCJpYXQiOjE3NTc3MTM4MzIsImV4cCI6MTc1NzcxMzg5Mn0.7_YAaEulfLX4Wbtl6DU-Ezzv_IGfxf_yl-JrJ-OBYFk",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+ {
+    "stationUuid": "23",
+    "name": "Saudi Quran1",
+    "url": "https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmT_pDQAAN5Wg_n_BNDh4UA",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+
 ]
+
