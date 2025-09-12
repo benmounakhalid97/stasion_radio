@@ -133,8 +133,8 @@
   },
   {
     "stationUuid": "12",
-    "name": "تفسير بن عثيمين",
-    "url": "https://qurango.net/radio/tafseer",
+    "name": "Online Radio",
+    "url": "https://asima.out.airtime.pro/asima_a",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
     "country": "Morocco",
     "bitrate": 128,
@@ -278,5 +278,6 @@
   },
 
 ]
+
 
 
