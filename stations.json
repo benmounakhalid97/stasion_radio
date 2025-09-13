@@ -267,7 +267,7 @@
  {
     "stationUuid": "23",
     "name": "Saudi Quran1",
-    "url": "https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABmT_pDQAAN5Wg_n_BNDh4UA",
+    "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w61770641.m3u8",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
    "country": "Morocco",
     "bitrate": 128,
@@ -278,6 +278,7 @@
   }
 
 ]
+
 
 
 
