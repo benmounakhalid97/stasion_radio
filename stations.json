@@ -266,7 +266,7 @@
   },
  {
     "stationUuid": "23",
-    "name": "Saudi Quran1",
+    "name": "AlarabiyaFm",
     "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w61770641.m3u8",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
    "country": "Morocco",
@@ -275,13 +275,29 @@
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
+  },
+ {
+    "stationUuid": "24",
+    "name": "medi1Radio",
+    "url": "https://live.medi1.com/Nayda",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "25",
+    "name": "chadafm",
+    "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
+    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "pop,news",
+    "isFavorite": false,
+    "addedAt": null
   }
-
 ]
-
-
-
-
-
-
-
