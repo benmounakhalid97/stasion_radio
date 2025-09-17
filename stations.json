@@ -268,7 +268,7 @@
     "stationUuid": "23",
     "name": "AlarabiyaFm",
     "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w61770641.m3u8",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+    "favicon": "https://upload.wikimedia.org/wikipedia/ar/d/d2/Alarabiya.jpg",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -280,7 +280,7 @@
     "stationUuid": "24",
     "name": "medi1Radio",
     "url": "https://live.medi1.com/Nayda",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Medi1radio-logo.png",
     "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -292,7 +292,7 @@
     "stationUuid": "25",
     "name": "chadafm",
     "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrUBnfLIxr2yfhOuwK-2H6xIyAwXb8aCxuVcjYxfdOwjMkIrxXYE4mWlzLNy5H3oE6I0&usqp=CAU",
     "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -301,3 +301,4 @@
     "addedAt": null
   }
 ]
+
