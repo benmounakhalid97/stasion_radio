@@ -3,7 +3,7 @@
   {
     "stationUuid": "1",
     "name": "Adwaa FM 3 Silent Lights",
-    "url": "https://stream-156.zeno.fm/x4451xh0x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4NDQ1MXhoMHgxenV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjAwVEFNVzhZUVVtT0hFSzl4QVVzaVEiLCJpYXQiOjE3NTgyODI1NzQsImV4cCI6MTc1ODI4MjYzNH0.IvTHwnzP2O-905f1HqduKg4Ll-JOSsk0PKM1WDNfyPc",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/chunks_dvr.m3u8",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
    "country": "Morocco",
     "bitrate": 128,
@@ -15,7 +15,7 @@
   {
     "stationUuid": "2",
     "name": "Adwaa FM 5",
-    "url": "https://stream-160.zeno.fm/ezxx195gq2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlenh4MTk1Z3EyenV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZIaVEzMlQ2U0RTMjUtZUw1MEJlOGciLCJpYXQiOjE3NTgyODI2NjQsImV4cCI6MTc1ODI4MjcyNH0.arHzPKJl5aEnhHI-NpOAqfKbh_Mz7oAcFGMQ2zcmzqU",
+    "url": "https://snrtlive.ma/fr/idaat-mohammed-assadiss",
     "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
    "country": "Morocco",
     "bitrate": 128,
@@ -1327,4 +1327,5 @@
   }
   
 ]
+
 
