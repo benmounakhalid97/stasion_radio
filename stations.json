@@ -63,7 +63,7 @@
     "stationUuid": "9",
     "name": "MA:-Hicham-Mallouli",
     "url": "https://stream.zeno.fm/gec4u31qcuhvv",
-    "favicon": "https://i.postimg.cc/RZsMjhWM/Hicham-Mallouli.png",
+    "favicon": "https://i.postimg.cc/bJh6cszZ/Hicham-Mallouli.png",
     "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -134,7 +134,7 @@
   {
     "stationUuid": "451",
     "name": "Mohamed Sadiss",
-    "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/chunks_dvr.m3u8",
     "favicon": "https://i.postimg.cc/2S6YFY2g/mohamed-sadiss.png",
     "country": "Morocco",
     "bitrate": 128,
@@ -472,7 +472,7 @@
     "stationUuid": "42",
     "name": "Classic Radio Non Stop",
     "url": "https://smeuh.org:8443/classicradiononstop.mp3",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+    "favicon": "https://i.postimg.cc/kGq3VP21/radio-classic.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -482,3 +482,4 @@
   }
 
   ]
+
