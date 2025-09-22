@@ -147,7 +147,7 @@
     "stationUuid": "32",
     "name": "Radio Tanger Med",
     "url": "https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3",
-    "favicon": "https://i.postimg.cc/VkTxqCSb/Radio-Tanger-Med.png",
+    "favicon": "https://i.postimg.cc/wTVrqfL2/Radio-Tanger-Med.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -568,7 +568,7 @@
     "stationUuid": "107",
     "name": "Quran El Menchaoui",
     "url": "https://radio.mp3islam.com/listen/minshawi/radio.mp3",
-    "favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+    "favicon": "https://i.postimg.cc/qvjKmnnj/menchaoui.png",
     "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -615,5 +615,6 @@
   }
 
   ]
+
 
 
