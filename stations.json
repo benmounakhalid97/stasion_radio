@@ -782,18 +782,6 @@
     "addedAt": null
   },
   {
-    "stationUuid": "57",
-    "name": "Radio Sotak",
-    "url": "https://radio.radiosotak.com/sotak_128",
-    "favicon": "https://i.postimg.cc/c1DdzHSB/Radio_Hits_FM_88.2.png",
-    "country": "Morocco",
-    "bitrate": 128,
-    "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },
-  {
     "stationUuid": "58",
     "name": "Nagham FM 105.3",
     "url": "https://ahmsamir.radioca.st/stream",
@@ -1022,18 +1010,6 @@
     "addedAt": null
   },
   {
-    "stationUuid": "78",
-    "name": "MFM 105.5",
-    "url": "https://mfmtunisie.toutech.net/mfmlive",
-    "favicon": "https://i.postimg.cc/Bb0sx1VC/M-fm-radio.png",
-   "country": "Morocco",
-    "bitrate": 128,
-    "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },  
-  {
     "stationUuid": "79",
     "name": "Misk 106.9 FM",
     "url": "https://live.misk.art/stream",
@@ -1085,7 +1061,7 @@
     "stationUuid": "83",
     "name": "Radio Gafsa",
     "url": "https://radio.radiotunisienne.tn/gafsa",
-    "favicon": "https://i.postimg.cc/2yXmLHwK/Radio_Gafsa.png",
+    "favicon": "https://i.postimg.cc/0QSgk5T4/Radio-Gafsa.png",
     "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1109,7 +1085,7 @@
     "stationUuid": "85",
     "name": "Radio Kef",
     "url": "https://radio.radiotunisienne.tn/kef",
-    "favicon": "https://i.postimg.cc/9Q9VzYqL/Radio_Kef.png",
+    "favicon": "https://i.postimg.cc/Rh1jtsVQ/Radio-Kef.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1134,7 +1110,7 @@
     "stationUuid": "87",
     "name": "Radio Monastir 104.7 FM",
     "url": "https://radio.radiotunisienne.tn/monastir",
-    "favicon": "https://i.postimg.cc/jjQb4qcN/Radio_Monastir_104.7_FM.png",
+    "favicon": "https://i.postimg.cc/Vsjy26Br/Radio-Monastir-104-7-FM.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1146,7 +1122,7 @@
     "stationUuid": "88",
     "name": "Radio Nationale Tunisienne",
     "url": "https://radio.radiotunisienne.tn/nationale",
-    "favicon": "https://i.postimg.cc/B6SGYW7z/Radio_Nationale_Tunisienne.png",
+    "favicon": "https://i.postimg.cc/BQ4W30Mh/Radio-Nationale-Tunisienne.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1216,6 +1192,7 @@
   }
 
   ]
+
 
 
 
