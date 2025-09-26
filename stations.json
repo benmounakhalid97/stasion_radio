@@ -155,6 +155,18 @@
     "isFavorite": false,
     "addedAt": null
   },
+    {
+    "stationUuid": "309",
+    "name": "Marrakechplus",
+    "url": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
+    "favicon": "https://i.postimg.cc/X7DDGwLB/Marrakechplus.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
   {
     "stationUuid": "10",
     "name": "Skyrock Casablanca",
@@ -304,18 +316,6 @@
     "name": "Sky News Arabia FM 90.5",
     "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
     "favicon": "https://i.postimg.cc/4xkVSyNF/Sky-News-Arabia.png",
-   "country": "Morocco",
-    "bitrate": 128,
-    "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },
-  {
-    "stationUuid": "304",
-    "name": "Jordanian Academy of Arabic",
-    "url": "https://eu9.fastcast4u.com/proxy/arabicla?mp=/1",
-    "favicon": "https://i.postimg.cc/YqSsCX6w/Jordanian-Academy-of-Arabic.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -624,6 +624,30 @@
     "isFavorite": false,
     "addedAt": null
   },
+    {
+    "stationUuid": "109",
+    "name": "Quran Abdul Basit",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "favicon": "https://i.postimg.cc/Y02b0ZLk/Abdul-Basit.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "110",
+    "name": "Coran Soudais",
+    "url": "https://radio.mp3islam.com/listen/sudais/radio.mp3",
+    "favicon": "https://i.postimg.cc/RhPGHdwt/abdul-rahman-al-sudais.png",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "M3U8",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  } ,
   {
     "stationUuid": "102",
     "name": "Quran maher lm3i9li",
@@ -760,7 +784,7 @@
     "stationUuid": "354",
     "name": "Radio Soleil",
     "url": "https://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3",
-    "favicon": "https://i.postimg.cc/zGXztKXt/english-radio.png",
+    "favicon": "https://i.postimg.cc/vmvr9yy2/Radio-Soleil.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -804,31 +828,6 @@
     "isFavorite": false,
     "addedAt": null
   },
-  {
-    "stationUuid": "109",
-    "name": "Quran Abdul Basit",
-    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-    "favicon": "https://i.postimg.cc/Y02b0ZLk/Abdul-Basit.png",
-   "country": "Morocco",
-    "bitrate": 128,
-    "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },
-  
-  {
-    "stationUuid": "110",
-    "name": "Coran Soudais",
-    "url": "https://radio.mp3islam.com/listen/sudais/radio.mp3",
-    "favicon": "https://i.postimg.cc/RhPGHdwt/abdul-rahman-al-sudais.png",
-    "country": "Morocco",
-    "bitrate": 128,
-    "codec": "M3U8",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  } ,
  {
     "stationUuid": "43",
     "name": "Radio Ain Timouchent",
@@ -1418,11 +1417,11 @@
     "isFavorite": false,
     "addedAt": null
   },
-  {
-    "stationUuid": "309",
-    "name": "Marrakechplus",
-    "url": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
-    "favicon": "https://i.postimg.cc/X7DDGwLB/Marrakechplus.png",
+    {
+    "stationUuid": "304",
+    "name": "Jordanian Academy of Arabic",
+    "url": "https://eu9.fastcast4u.com/proxy/arabicla?mp=/1",
+    "favicon": "https://i.postimg.cc/YqSsCX6w/Jordanian-Academy-of-Arabic.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1828,3 +1827,4 @@
   }
  
   ]
+
