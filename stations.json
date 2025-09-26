@@ -360,6 +360,18 @@
     "addedAt": null
   },
   {
+    "stationUuid": "8",
+    "name": "NRJ-Rai",
+    "url": "https://streaming.nrjaudio.fm/ou8vwfgk7oiu?origine=ecouterradioenligne&aw_0_1st.station=NRJ-Rai",
+    "favicon": "https://i.postimg.cc/HxgLTPZ0/NRJ_Egypt_FM_92.1.png",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
     "stationUuid": "12",
     "name": "Hit Radio 100% Mgharba",
     "url": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
@@ -1827,4 +1839,5 @@
   }
  
   ]
+
 
