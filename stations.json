@@ -3,7 +3,7 @@
     "stationUuid": "303",
     "name": "Sky News Arabia FM 90.5",
     "url": "https://i.postimg.cc/4yMgXpW8/Sky_News_Arabia.png",
-    "favicon": "https://i.postimg.cc/4xkVSyNF/Sky-News-Arabia.png",
+    "favicon": "https://i.postimg.cc/4yMgXpW8/Sky_News_Arabia.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1673,7 +1673,7 @@
     "stationUuid": "349",
     "name": "Radio Kiss Kiss - Italia",
     "url": "https://kisskiss.fluidstream.eu/KKItalia.aac",
-    "favicon": "https://i.postimg.cc/Gh9XC4RL/Radio-Kiss-Kiss-Italia.png",
+    "favicon": "https://i.postimg.cc/sfpWNK0x/Radio_Kiss_Kiss_-_Italia.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1683,6 +1683,7 @@
   }
  
   ]
+
 
 
 
