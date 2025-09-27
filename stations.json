@@ -1,8 +1,9 @@
+
  [
   {
     "stationUuid": "303",
     "name": "Sky News Arabia FM 90.5",
-    "url": "https://i.postimg.cc/4yMgXpW8/Sky_News_Arabia.png",
+    "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
     "favicon": "https://i.postimg.cc/4yMgXpW8/Sky_News_Arabia.png",
    "country": "Morocco",
     "bitrate": 128,
@@ -243,7 +244,7 @@
     "stationUuid": "19",
     "name": "MFM Radio 106.0 FM",
     "url": "https://a5.asurahosting.com:7980/radio.mp3",
-    "favicon": "https://i.postimg.cc/Bb0sx1VC/M-fm-radio.png",
+    "favicon": "https://i.postimg.cc/yYpDbp3c/M-fm-radio.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -925,22 +926,10 @@
     "addedAt": null
   },
    {
-    "stationUuid": "65",
-    "name": "Radio Savta",
-    "url": "https://broadcast.radiosavta.com:8000/radio.mp3",
-    "favicon": "https://i.postimg.cc/x1LD9jW7/Radio_Savta.png",
-   "country": "Morocco",
-    "bitrate": 128,
-    "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },
-   {
     "stationUuid": "66",
     "name": "Al Hayet FM",
     "url": "https://manager8.streamradio.fr:2885/stream",
-    "favicon": "https://i.postimg.cc/fTBSBZHG/Al-Hayet-FM.png",
+    "favicon": "https://i.postimg.cc/ncSXPS99/Al-Hayet-FM.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -952,7 +941,7 @@
     "stationUuid": "67",
     "name": "Ambiance FM 106.8",
     "url": "https://stream-157.zeno.fm/0rehsamc9xxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcmVoc2FtYzl4eHR2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklFWmlETkF1VGppX2UtMFZlLWpjdEEiLCJpYXQiOjE3NTgyODk5MjMsImV4cCI6MTc1ODI4OTk4M30.yH9O7bxOzqZ_5gN6YCCrRKSS6BG2YLxtQkYoMLBkN38",
-    "favicon": "https://i.postimg.cc/x18JZ7hc/Ambiance-FM-106-8.png",
+    "favicon": "https://i.postimg.cc/wT41G4RX/Ambiance-FM-106-8.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1024,7 +1013,7 @@
     "stationUuid": "73",
     "name": "Express FM 103.6",
     "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
-    "favicon": "https://i.postimg.cc/9XBDQCjD/Express_FM_103.6.png",
+    "favicon": "https://i.postimg.cc/vH24N2x7/Express-FM-103-6.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1169,7 +1158,7 @@
     "stationUuid": "86",
     "name": "Radio Med",
     "url": "https://stream6.tanitweb.com/radiomed",
-    "favicon": "https://i.postimg.cc/7Ly4zJ3w/Radio_Med.png",
+    "favicon": "https://i.postimg.cc/QxYFyYKk/Radio-Med.png",
     "country": "Morocco",
     "bitrate": 128,
     "codec": "M3U8",
@@ -1260,12 +1249,108 @@
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
+  }, 
+  {
+    "stationUuid": "316",
+    "name": "Qmusic",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
+    "favicon": "https://i.postimg.cc/1tDr5BW2/Qmusic-Copie.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
   },
   {
     "stationUuid": "308",
     "name": "GhorbaDz",
     "url": "https://stream-179.zeno.fm/y9rchc1djgavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5OXJjaGMxZGpnYXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImVjdTVkamtpVDl1czBvWmVNekQtNVEiLCJpYXQiOjE3NTg3NDg4NDYsImV4cCI6MTc1ODc0ODkwNn0.nK52fXfBlAqOseOuHeGL3z1VfyYbl1nRRz9mZDd7jNo",
     "favicon": "https://i.postimg.cc/yx1r9j2c/GhorbaDz.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "551",
+    "name": "Miraath Al Anbiyya",
+    "url": "https://radio.al7eah.net/8010/stream",
+    "favicon": "https://i.postimg.cc/zfw59pGv/Miraath-Al-Anbiyya.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "562",
+    "name": "Radio UFM 90.0",
+    "url": "https://stream.ufmradio.com:8003/;",
+    "favicon": "https://i.postimg.cc/rpGcvgw5/Radio-UFM-90-0.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "583",
+    "name": "Volna 103.2 FM",
+    "url": "https://de1.streamingpulse.com/ssl/radiovolna",
+    "favicon": "https://i.postimg.cc/zfw59pGC/Volna-103-2-FM.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "594",
+    "name": "St. Mary Church Zeitoun",
+    "url": "https://cast.az-streamingserver.com/proxy/stmary?mp=/stream",
+    "favicon": "       ",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "605",
+    "name": "Almalak Radio",
+    "url": "https://almalakradio.out.airtime.pro/almalakradio_a",
+    "favicon": "https://i.postimg.cc/7L1DpXZZ/Almalak-Radio.png",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "626",
+    "name": "Radio 5:14",
+    "url": "https://n04.radiojar.com/ps7z45v12k8uv?rj-ttl=5&rj-tok=AAABmYzyyBUAxAPnyVcASMrR5g",
+    "favicon": "",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "M3U8",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "637",
+    "name": "Radio Saraya 99.3 FM",
+    "url": "https://cast6.asurahosting.com/proxy/khaialfo/stream",
+    "favicon": "https://i.postimg.cc/bv08KLwZ/Radio-Saraya-99-3-FM.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1290,18 +1375,6 @@
     "name": "France Musique",
     "url": "https://icecast.radiofrance.fr/francemusique-hifi.aac",
     "favicon": "https://i.postimg.cc/fLjrJpqM/France-Musique.png",
-   "country": "Morocco",
-    "bitrate": 128,
-    "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },
-  {
-    "stationUuid": "316",
-    "name": "Qmusic",
-    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
-    "favicon": "https://i.postimg.cc/1tDr5BW2/Qmusic-Copie.png",
    "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
@@ -1683,8 +1756,4 @@
   }
  
   ]
-
-
-
-
 
