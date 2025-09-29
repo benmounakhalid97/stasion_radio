@@ -1,4 +1,5 @@
 
+
  [
   {
     "stationUuid": "303",
@@ -577,6 +578,30 @@
     "isFavorite": false,
     "addedAt": null
   },
+   {
+    "stationUuid": "42",
+    "name": "Classic Radio Non Stop",
+    "url": "https://smeuh.org:8443/classicradiononstop.mp3",
+    "favicon": "https://i.postimg.cc/kGq3VP21/radio-classic.png",
+   "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+   {
+    "stationUuid": "100",
+    "name": "Quran FM 98.2",
+    "url": "https://n03.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABmWG-XGMAiOWEL1A-LYnScQ",
+    "favicon": "https://i.postimg.cc/XvxHwnfm/coran.png",
+  "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
   {
     "stationUuid": "101",
     "name": "Quran Radio FM 96.9",
@@ -1010,6 +1035,42 @@
     "addedAt": null
   },
   {
+    "stationUuid": "75",
+    "name": "Jawhara FM Gold",
+    "url": "https://streaming2.toutech.net/jfmweb2",
+    "favicon": "https://i.postimg.cc/m2Xh7jkR/Jawhara_FM_Gold.png",
+  "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "76",
+    "name": "Jawhara FM Tunsi",
+    "url": "https://streaming2.toutech.net/jfmweb1",
+    "favicon": "https://i.postimg.cc/m2Xh7jkR/Jawhara_FM_Gold.png",
+  "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },  
+  {
+    "stationUuid": "77",
+    "name": "Karama FM 100.0",
+    "url": "https://hosting.studioradiomedia.fr:2685/stream",
+    "favicon": "https://i.postimg.cc/HWRH4NHp/Karama_Radio.png",
+  "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
     "stationUuid": "79",
     "name": "Misk 106.9 FM",
     "url": "https://live.misk.art/stream",
@@ -1251,6 +1312,18 @@
     "addedAt": null
   },
   {
+    "stationUuid": "594",
+    "name": "St. Mary Church Zeitoun",
+    "url": "https://cast.az-streamingserver.com/proxy/stmary?mp=/stream",
+    "favicon": "       ",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
     "stationUuid": "605",
     "name": "Almalak Radio",
     "url": "https://almalakradio.out.airtime.pro/almalakradio_a",
@@ -1258,6 +1331,18 @@
     "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
+  {
+    "stationUuid": "626",
+    "name": "Radio 5:14",
+    "url": "https://n04.radiojar.com/ps7z45v12k8uv?rj-ttl=5&rj-tok=AAABmYzyyBUAxAPnyVcASMrR5g",
+    "favicon": "",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "M3U8",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -1672,5 +1757,6 @@
   }
  
   ]
-
-
+  
+  
+  
