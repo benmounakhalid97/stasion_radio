@@ -1,6 +1,4 @@
-
-
- [
+[
   {
     "stationUuid": "303",
     "name": "Sky News Arabia FM 90.5",
@@ -176,7 +174,7 @@
     "favicon": "https://i.postimg.cc/3JZ9G3XK/cheriefm.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "M3U8",
+    "codec": "MP3",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -393,7 +391,7 @@
     "favicon": "https://i.postimg.cc/mrPbR497/HIT-radio.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "M3U8",
+    "codec": "MP3",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -645,7 +643,7 @@
     "favicon": "https://i.postimg.cc/RhPGHdwt/abdul-rahman-al-sudais.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "M3U8",
+    "codec": "MP3",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -897,7 +895,7 @@
     "favicon": "https://i.postimg.cc/Xqrmmnfs/Sha3by_FM_95.0.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "M3U8",
+    "codec": "MP3",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -1162,7 +1160,7 @@
     "favicon": "https://i.postimg.cc/QxYFyYKk/Radio-Med.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "M3U8",
+    "codec": "MP3",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -1733,7 +1731,3 @@
   }
  
   ]
-  
-  
-  
-
