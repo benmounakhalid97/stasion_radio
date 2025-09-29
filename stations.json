@@ -1,4 +1,5 @@
-[
+
+ [
   {
     "stationUuid": "303",
     "name": "Sky News Arabia FM 90.5",
@@ -36,7 +37,7 @@
     "addedAt": null
   }, 
  {
-    "stationUuid": "888",
+    "stationUuid": "8",
     "name": "chadafm",
     "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
     "favicon": "https://i.postimg.cc/DycfPBF4/chada-fm.png",
@@ -174,13 +175,13 @@
     "favicon": "https://i.postimg.cc/3JZ9G3XK/cheriefm.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "MP3",
+    "codec": "M3U8",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
   },
   {
-    "stationUuid": "8",
+    "stationUuid": "855",
     "name": "NRJ-Rai",
     "url": "https://streaming.nrjaudio.fm/ou8vwfgk7oiu?origine=ecouterradioenligne&aw_0_1st.station=NRJ-Rai",
     "favicon": "https://i.postimg.cc/HxgLTPZ0/NRJ_Egypt_FM_92.1.png",
@@ -391,7 +392,7 @@
     "favicon": "https://i.postimg.cc/mrPbR497/HIT-radio.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "MP3",
+    "codec": "M3U8",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -588,6 +589,18 @@
     "isFavorite": false,
     "addedAt": null
   },
+   {
+    "stationUuid": "100",
+    "name": "Quran FM 98.2",
+    "url": "https://n03.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABmWG-XGMAiOWEL1A-LYnScQ",
+    "favicon": "https://i.postimg.cc/XvxHwnfm/coran.png",
+  "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3",
+    "tags": "talk,music",
+    "isFavorite": false,
+    "addedAt": null
+  },
   {
     "stationUuid": "101",
     "name": "Quran Radio FM 96.9",
@@ -631,7 +644,7 @@
     "favicon": "https://i.postimg.cc/RhPGHdwt/abdul-rahman-al-sudais.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "MP3",
+    "codec": "M3U8",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -883,7 +896,7 @@
     "favicon": "https://i.postimg.cc/Xqrmmnfs/Sha3by_FM_95.0.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "MP3",
+    "codec": "M3U8",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -1148,7 +1161,7 @@
     "favicon": "https://i.postimg.cc/QxYFyYKk/Radio-Med.png",
     "country": "Morocco",
     "bitrate": 128,
-    "codec": "MP3",
+    "codec": "M3U8",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
