@@ -38,7 +38,7 @@
     "addedAt": null
   }, 
  {
-    "stationUuid": "8",
+    "stationUuid": "888",
     "name": "chadafm",
     "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
     "favicon": "https://i.postimg.cc/DycfPBF4/chada-fm.png",
@@ -1312,18 +1312,6 @@
     "addedAt": null
   },
   {
-    "stationUuid": "594",
-    "name": "St. Mary Church Zeitoun",
-    "url": "https://cast.az-streamingserver.com/proxy/stmary?mp=/stream",
-    "favicon": "       ",
-    "country": "Morocco",
-    "bitrate": 128,
-    "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },
-  {
     "stationUuid": "605",
     "name": "Almalak Radio",
     "url": "https://almalakradio.out.airtime.pro/almalakradio_a",
@@ -1331,18 +1319,6 @@
     "country": "Morocco",
     "bitrate": 128,
     "codec": "MP3",
-    "tags": "talk,music",
-    "isFavorite": false,
-    "addedAt": null
-  },
-  {
-    "stationUuid": "626",
-    "name": "Radio 5:14",
-    "url": "https://n04.radiojar.com/ps7z45v12k8uv?rj-ttl=5&rj-tok=AAABmYzyyBUAxAPnyVcASMrR5g",
-    "favicon": "",
-    "country": "Morocco",
-    "bitrate": 128,
-    "codec": "M3U8",
     "tags": "talk,music",
     "isFavorite": false,
     "addedAt": null
@@ -1760,3 +1736,4 @@
   
   
   
+
